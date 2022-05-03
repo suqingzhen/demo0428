@@ -1,0 +1,8 @@
+# 设置url
+url=jdbc:mysql:///sqz?serverTimezone=UTC
+# 设置驱动类
+driverClassName=com.mysql.cj.jdbc.Driver
+# 设置用户名
+username=root
+# 设置密码
+password=root
